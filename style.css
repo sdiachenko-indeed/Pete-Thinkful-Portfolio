@@ -33,12 +33,6 @@ nav {
   text-align: center;
 }
 
-.image-circle {
-  border-radius: 50%;  
-  border-color: #003049;
-  border-width: 2px;
-}
-
 article {
   padding: 50px 0;
 }
@@ -71,4 +65,7 @@ hr {
 /* Add your solution below */
 
 .image-circle {
+  border-radius: 50%;  
+  border-color: #003049;
+  border-width: 2px;
 }
